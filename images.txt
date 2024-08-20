@@ -1,3 +1,4 @@
+centos
 nginx
 redis
 #支持私库
